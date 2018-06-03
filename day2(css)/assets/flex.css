@@ -1,0 +1,10 @@
+.flex{
+  display:flex;
+  /*Column Elements*/
+  flex-direction: column-reverse;
+  align-items:flex-start;
+  /*Row Elements*/
+  /*flex-direction: row;
+  justify-content: space-between;*/
+  justify-content: 
+}
